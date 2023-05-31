@@ -22,7 +22,7 @@
 
             account: {
                 id:           'PendoAllStar123' // Required if using Pendo Feedback
-                name:         'Pendo'// Optional
+                name:         'Pendo EMEA'// Optional
                 is_paying:    'True'// Recommended if using Pendo Feedback
                 monthly_value:  '500,000'// Recommended if using Pendo Feedback
                 planLevel:    'Enterprise'// Optional
@@ -30,6 +30,14 @@
                 creationDate: '2021-02-01'// Optional
 
                 // You can add any additional account level key-values here,
+                // as long as it's not one of the above reserved names.
+            }
+            
+            parentAccount: {
+                id:           'Pendo'
+                name:         'Pendo.io'  // Optional
+
+                // You can add any additional parent account level key-values here,
                 // as long as it's not one of the above reserved names.
             }
         });
