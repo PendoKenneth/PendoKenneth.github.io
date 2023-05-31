@@ -9,11 +9,11 @@
         // Please use Strings, Numbers, or Bools for value types.
         pendo.initialize({
             visitor: {
-                id:              'Kenneth'   // Required if user is logged in
-                email:        'kenneth.lewis@pendo.io'  // Recommended if using Pendo Feedback, or NPS Email
-                full_name:    'Kenneth Lewis'   // Recommended if using Pendo Feedback
-                firstName:    'Kenneth'
-                surname:      'Lewis'
+                id:              'Kenneth',   // Required if user is logged in
+                email:         'kenneth.lewis@pendo.io',  // Recommended if using Pendo Feedback, or NPS Email
+                full_name:    'Kenneth Lewis',   // Recommended if using Pendo Feedback
+                firstName:    'Kenneth',
+                surname:      'Lewis',
                 role:         'Sr. CSM' // Optional
 
                 // You can add any additional visitor level key-values here,
@@ -21,20 +21,20 @@
             },
 
             account: {
-                id:           'PendoAllStar123' // Required if using Pendo Feedback
-                name:         'Pendo EMEA'// Optional
-                is_paying:    'True'// Recommended if using Pendo Feedback
-                monthly_value:  '500,000'// Recommended if using Pendo Feedback
-                planLevel:    'Enterprise'// Optional
+                id:           'PendoAllStar123', // Required if using Pendo Feedback
+                name:         'Pendo EMEA', // Optional
+                is_paying:    'True', // Recommended if using Pendo Feedback
+                monthly_value:  '500,000', // Recommended if using Pendo Feedback
+                planLevel:    'Enterprise', // Optional
                 // planPrice:    // Optional
                 creationDate: '2021-02-01'// Optional
 
                 // You can add any additional account level key-values here,
                 // as long as it's not one of the above reserved names.
-            }
+            },
             
             parentAccount: {
-                id:           'Pendo'
+                id:           'Pendo',
                 name:         'Pendo'  // Optional
 
                 // You can add any additional parent account level key-values here,
