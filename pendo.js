@@ -10,22 +10,24 @@
         pendo.initialize({
             visitor: {
                 id:              'Kenneth'   // Required if user is logged in
-                // email:        // Recommended if using Pendo Feedback, or NPS Email
-                // full_name:    // Recommended if using Pendo Feedback
-                // role:         // Optional
+                email:        'kenneth.lewis@pendo.io'  // Recommended if using Pendo Feedback, or NPS Email
+                full_name:    'Kenneth Lewis'   // Recommended if using Pendo Feedback
+                firstName:    'Kenneth'
+                surname:      'Lewis'
+                role:         'Sr. CSM' // Optional
 
                 // You can add any additional visitor level key-values here,
                 // as long as it's not one of the above reserved names.
             },
 
             account: {
-                id:           'ACCOUNT-UNIQUE-ID' // Required if using Pendo Feedback
-                // name:         // Optional
-                // is_paying:    // Recommended if using Pendo Feedback
-                // monthly_value:// Recommended if using Pendo Feedback
-                // planLevel:    // Optional
+                id:           'PendoAllStar123' // Required if using Pendo Feedback
+                name:         'Pendo'// Optional
+                is_paying:    'True'// Recommended if using Pendo Feedback
+                monthly_value:  '500,000'// Recommended if using Pendo Feedback
+                planLevel:    'Enterprise'// Optional
                 // planPrice:    // Optional
-                // creationDate: // Optional
+                creationDate: '2021-02-01'// Optional
 
                 // You can add any additional account level key-values here,
                 // as long as it's not one of the above reserved names.
