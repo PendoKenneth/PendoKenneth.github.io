@@ -35,7 +35,7 @@
             
             parentAccount: {
                 id:           'Pendo'
-                name:         'Pendo.io'  // Optional
+                name:         'Pendo'  // Optional
 
                 // You can add any additional parent account level key-values here,
                 // as long as it's not one of the above reserved names.
