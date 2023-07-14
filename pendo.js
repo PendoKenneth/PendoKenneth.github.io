@@ -14,7 +14,8 @@
                 full_name:    'Kenneth Lewis',   // Recommended if using Pendo Feedback
                 firstName:    'Kenneth',
                 surname:      'Lewis',
-                role:         'Sr. CSM' // Optional
+                role:         'Sr. CSM', // Optional
+                eventdate:    '2023-07-14'
 
                 // You can add any additional visitor level key-values here,
                 // as long as it's not one of the above reserved names.
