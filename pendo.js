@@ -22,7 +22,7 @@
             },
 
             account: {
-                id:           '*****L1_KCH_NHS_Foundation_Trust', //'PendoAllStar123', // Required if using Pendo Feedback
+                id:           'PendoAllStar123', // Required if using Pendo Feedback
                 name:         '', // Optional
                 is_paying:    'True', // Recommended if using Pendo Feedback
                 monthly_value:  '500,000', // Recommended if using Pendo Feedback
