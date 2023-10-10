@@ -15,8 +15,8 @@
                 firstName:    'Kenneth',
                 surname:      'Lewis',
                 role:         'Sr. CSM', // Optional
-                eventdate:    '2023-07-14',
-                starRating:    'All-Star'
+                eventdate:    '2023-07-14'//,
+                //starRating:    'All-Star'
 
                 // You can add any additional visitor level key-values here,
                 // as long as it's not one of the above reserved names.
