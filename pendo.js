@@ -9,7 +9,7 @@
         // Please use Strings, Numbers, or Bools for value types.
         pendo.initialize({
             visitor: {
-                id:              'Kenneth',   // Required if user is logged in
+                id:            'PU-0000021',   // Required if user is logged in
                 email:         'kenneth.lewis@pendo.io',  // Recommended if using Pendo Feedback, or NPS Email
                 full_name:    'Kenneth Lewis',   // Recommended if using Pendo Feedback
                 firstName:    'Kenneth',
