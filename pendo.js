@@ -35,9 +35,9 @@
                 // as long as it's not one of the above reserved names.
             },
             
-            parentAccount: {
-                id:           'Pendo',
-                name:         'Pendo'  // Optional
+            //parentAccount: {
+               // id:           'Pendo',
+               // name:         'Pendo'  // Optional
 
                 // You can add any additional parent account level key-values here,
                 // as long as it's not one of the above reserved names.
