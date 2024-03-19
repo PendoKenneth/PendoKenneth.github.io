@@ -24,9 +24,9 @@
 
             account: {
                 id:           'PendoAllStar123', // Required if using Pendo Feedback
-                name:         '', // Optional
+                //name:         '', // Optional
                 is_paying:    'True', // Recommended if using Pendo Feedback
-                monthly_value:  '500,000', // Recommended if using Pendo Feedback
+                //monthly_value:  '500,000', // Recommended if using Pendo Feedback
                 planLevel:    'Enterprise', // Optional
                 // planPrice:    // Optional
                 creationDate: '2021-02-01'// Optional
