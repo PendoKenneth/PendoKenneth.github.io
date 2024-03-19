@@ -35,12 +35,12 @@
                 // as long as it's not one of the above reserved names.
             },
             
-            //parentAccount: {
+            parentAccount: {
                // id:           'Pendo',
                // name:         'Pendo'  // Optional
 
                 // You can add any additional parent account level key-values here,
                 // as long as it's not one of the above reserved names.
-            //}
+            }
         });
 })('f2b44630-7489-4192-4efe-33802ab41173');
