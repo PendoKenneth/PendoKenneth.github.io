@@ -1,5 +1,3 @@
-pendo.reset();
-
 // Call this whenever information about your visitors becomes available
         // Please use Strings, Numbers, or Bools for value types.
         pendo.initialize({
